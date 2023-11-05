@@ -190,7 +190,7 @@ namespace Laboratorio_11
                     Console.Write(notas[i] + " ");
                 }
             }
-            Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
